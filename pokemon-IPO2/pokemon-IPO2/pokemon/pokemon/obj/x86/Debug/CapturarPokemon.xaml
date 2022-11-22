@@ -1,0 +1,486 @@
+﻿<UserControl
+    x:Class="pokemon.CapturarPokemon"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:pokemon"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300"
+    d:DesignWidth="400">
+
+    <UserControl.Resources>
+        <Storyboard x:ConnectionId='2' x:Name="Captura1">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="pokeball" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="38.835"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="507.957"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="507.957"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="509.51"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01" Value="512.617"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="512.617"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.3000000" Value="509.511"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:02.4000000" Value="509.511"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:02.7000000" Value="509.511"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:02.8000000" Value="652.511"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:02.9000000" Value="836.511"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="pokeball" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="-31.068"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="-380.58"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="-462.909"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="-509.51"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01" Value="-424.074"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="-312.23"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.3000000" Value="-237.668"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:02.4000000" Value="-237.668"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:02.7000000" Value="-237.668"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:02.8000000" Value="-280.668"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:02.9000000" Value="-329.668"/>
+            </DoubleAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="ventana" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:00.6000000" Value="Collapsed"/>
+                <DiscreteObjectKeyFrame KeyTime="00:00:02.7000000" Value="Visible"/>
+                <DiscreteObjectKeyFrame KeyTime="00:00:03" Value="Collapsed"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pokeball" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:01.3000000">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Visible</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="00:00:01.6000000" Value="Visible"/>
+                <DiscreteObjectKeyFrame KeyTime="00:00:02.4000000">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Visible</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="00:00:02.7000000" Value="Visible"/>
+                <DiscreteObjectKeyFrame KeyTime="00:00:02.9000000">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Visible</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="00:00:03" Value="Collapsed"/>
+            </ObjectAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="pokeball" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="56.652"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="179.216"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="359.282"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="91.162"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.4000000" Value="179.539"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.5000000" Value="268.888"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="1.754"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.7000000" Value="47.453"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="89.4"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="-225.939"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01" Value="-178.69"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.1000000" Value="-119.919"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="-85.706"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.3000000" Value="0.653"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.6000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.8000000" Value="47.488"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:02" Value="1.039"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:02.2000000" Value="-44.912"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:02.4000000" Value="0.127"/>
+            </DoubleAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="textBlock" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:03" Value="Visible"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="textBlock" Storyboard.TargetProperty="(TextBlock.Text)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:03" Value="¿Quieres probar a capturarle otra vez?"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="button1_Copy" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:03" Value="Visible"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="button1" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:03" Value="Visible"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="button" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:03" Value="Collapsed"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="Curar1" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:03" Value="Collapsed"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="atacar1" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:03" Value="Collapsed"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="rectangle" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:03" Value="Collapsed"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="textBlock2" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:03" Value="Collapsed"/>
+            </ObjectAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:ConnectionId='3' x:Name="Captura2">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="pokeball" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="38.835"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="507.957"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="507.957"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="509.51"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01" Value="512.617"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="512.617"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.3000000" Value="509.511"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:02.4000000" Value="509.511"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:04.2000000" Value="509.511"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:04.3000000" Value="652.511"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:04.4000000" Value="836.511"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="pokeball" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="-31.068"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="-380.58"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="-462.909"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="-509.51"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01" Value="-424.074"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="-312.23"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.3000000" Value="-237.668"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:02.4000000" Value="-237.668"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:04.2000000" Value="-237.668"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:04.3000000" Value="-280.668"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:04.4000000" Value="-329.668"/>
+            </DoubleAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="ventana" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:00.6000000" Value="Collapsed"/>
+                <DiscreteObjectKeyFrame KeyTime="00:00:04.2000000" Value="Visible"/>
+                <DiscreteObjectKeyFrame KeyTime="00:00:04.8000000" Value="Collapsed"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pokeball" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:01.3000000">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Visible</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="00:00:01.6000000" Value="Visible"/>
+                <DiscreteObjectKeyFrame KeyTime="00:00:02.4000000">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Visible</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="00:00:02.9000000" Value="Visible"/>
+                <DiscreteObjectKeyFrame KeyTime="00:00:04.2000000" Value="Visible"/>
+                <DiscreteObjectKeyFrame KeyTime="00:00:04.4000000">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Visible</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="00:00:04.5000000" Value="Collapsed"/>
+            </ObjectAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="pokeball" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="29.548"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="180.986"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="357.891"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="89.695"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.4000000" Value="179.378"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.5000000" Value="270.4"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.7000000" Value="51.647"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="94.769"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="138.353"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01" Value="186.44"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.1000000" Value="234.067"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="289.143"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.3000000" Value="1.555"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.6000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.8000000" Value="47.488"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:02" Value="1.039"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:02.2000000" Value="-44.912"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:02.4000000" Value="0.127"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:02.9000000" Value="0.127"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:03.1000000" Value="46.559"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:03.3000000" Value="0.299"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:03.5000000" Value="-45.734"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:03.7000000" Value="0.568"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:04.2000000" Value="0.127"/>
+            </DoubleAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="textBlock" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:04.8000000" Value="Visible"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="textBlock" Storyboard.TargetProperty="(TextBlock.Text)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:04.8000000" Value="¿Quieres probar a capturarle otra vez?"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="button1_Copy" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:04.8000000" Value="Visible"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="button1" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:04.8000000" Value="Visible"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="button" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:04.8000000" Value="Collapsed"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="Curar1" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:04.8000000" Value="Collapsed"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="atacar1" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:04.8000000" Value="Collapsed"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="rectangle" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:04.8000000" Value="Collapsed"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="textBlock2" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:04.8000000" Value="Collapsed"/>
+            </ObjectAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:ConnectionId='4' x:Name="Captura3">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="pokeball" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="38.835"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="507.957"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="507.957"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="509.51"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01" Value="512.617"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="512.617"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.3000000" Value="509.511"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:02.4000000" Value="509.511"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:05.6000000" Value="509.511"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:05.7000000" Value="652.511"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:05.8000000" Value="836.511"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="pokeball" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="-31.068"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="-380.58"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="-462.909"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="-509.51"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01" Value="-424.074"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="-312.23"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.3000000" Value="-237.668"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:02.4000000" Value="-237.668"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:05.6000000" Value="-237.668"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:05.7000000" Value="-280.668"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:05.8000000" Value="-329.668"/>
+            </DoubleAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="ventana" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:00.6000000" Value="Collapsed"/>
+                <DiscreteObjectKeyFrame KeyTime="00:00:05.6000000" Value="Visible"/>
+                <DiscreteObjectKeyFrame KeyTime="00:00:06.2000000" Value="Collapsed"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pokeball" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:01.3000000">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Visible</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="00:00:01.6000000" Value="Visible"/>
+                <DiscreteObjectKeyFrame KeyTime="00:00:02.4000000">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Visible</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="00:00:02.9000000" Value="Visible"/>
+                <DiscreteObjectKeyFrame KeyTime="00:00:03.7000000">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Visible</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="00:00:04.2000000" Value="Visible"/>
+                <DiscreteObjectKeyFrame KeyTime="00:00:05.6000000" Value="Visible"/>
+                <DiscreteObjectKeyFrame KeyTime="00:00:05.8000000">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Visible</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="00:00:05.9000000" Value="Collapsed"/>
+            </ObjectAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="pokeball" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="47.181"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="180.741"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="361.967"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="90.38"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.4000000" Value="182.843"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.5000000" Value="271.626"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.7000000" Value="48.81"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="97.524"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="130.821"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01" Value="191.138"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.1000000" Value="239.257"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="301.407"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.3000000" Value="0.921"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.6000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.8000000" Value="47.488"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:02" Value="1.039"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:02.2000000" Value="-44.912"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:02.4000000" Value="0.127"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:02.9000000" Value="0.127"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:03.1000000" Value="46.559"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:03.3000000" Value="0.299"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:03.5000000" Value="-45.734"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:03.7000000" Value="0.568"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:04.2000000" Value="0.439375"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:04.4000000" Value="45.791"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:04.6000000" Value="1.204"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:04.8000000" Value="-49.096"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:05" Value="0.464"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:05.6000000" Value="0.127"/>
+            </DoubleAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="button1_Copy" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:06.2000000" Value="Visible"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="button1" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:06.2000000" Value="Visible"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="textBlock" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:06.2000000" Value="Visible"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="button" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:06.2000000" Value="Collapsed"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="Curar1" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:06.2000000" Value="Collapsed"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="atacar1" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:06.2000000" Value="Collapsed"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="rectangle" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:06.2000000" Value="Collapsed"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="textBlock2" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:06.2000000" Value="Collapsed"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="textBlock" Storyboard.TargetProperty="(TextBlock.Text)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:06.2000000" Value="¿Quieres probar a capturarle otra vez?"/>
+            </ObjectAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:ConnectionId='5' x:Name="Captura4">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="pokeball" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="38.835"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="507.957"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="507.957"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="509.51"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01" Value="512.617"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="512.617"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.3000000" Value="509.511"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:02.4000000" Value="509.511"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="pokeball" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="-31.068"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="-380.58"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="-462.909"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="-509.51"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01" Value="-424.074"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="-312.23"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.3000000" Value="-237.668"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:02.4000000" Value="-237.668"/>
+            </DoubleAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="ventana" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:00.6000000" Value="Collapsed"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pokeball" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:01.3000000">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Visible</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="00:00:01.6000000" Value="Visible"/>
+                <DiscreteObjectKeyFrame KeyTime="00:00:02.4000000">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Visible</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="00:00:02.9000000" Value="Visible"/>
+                <DiscreteObjectKeyFrame KeyTime="00:00:03.7000000">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Visible</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="00:00:04.2000000" Value="Visible"/>
+            </ObjectAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="pokeball" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="28.832"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="181.027"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="363.549"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="91.248"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.4000000" Value="179.178"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.5000000" Value="270.291"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.7000000" Value="53.054"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="94.926"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="148.007"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01" Value="193.342"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.1000000" Value="250.459"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="288.939"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.3000000" Value="1.775"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.6000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.8000000" Value="47.488"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:02" Value="1.039"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:02.2000000" Value="-44.912"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:02.4000000" Value="0.127"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:02.9000000" Value="0.127"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:03.1000000" Value="46.559"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:03.3000000" Value="0.299"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:03.5000000" Value="-45.734"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:03.7000000" Value="0.568"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:04.2000000" Value="0.439375"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:04.4000000" Value="45.791"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:04.6000000" Value="1.204"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:04.8000000" Value="-49.096"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:05" Value="0.464"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="pokeball" Storyboard.TargetProperty="(UIElement.Opacity)">
+                <EasingDoubleKeyFrame KeyTime="00:00:05" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:06.5000000" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:07.3000000" Value="0.5"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:07.8000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="atacar1" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:07.8000000" Value="Collapsed"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="Curar1" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:07.8000000" Value="Collapsed"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="button" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:07.8000000" Value="Collapsed"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="textBlock" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:07.8000000" Value="Visible"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="button1" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:07.8000000" Value="Visible"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="button1_Copy" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:07.8000000" Value="Visible"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="rectangle" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:00" Value="Visible"/>
+                <DiscreteObjectKeyFrame KeyTime="00:00:07.8000000" Value="Collapsed"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="rectangulo1" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:07.8000000" Value="Collapsed"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="textBlock2" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:07.8000000" Value="Collapsed"/>
+            </ObjectAnimationUsingKeyFrames>
+        </Storyboard>
+    </UserControl.Resources>
+
+    <Grid Background="#FFEEF378">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="49*"/>
+            <RowDefinition Height="118*"/>
+            <RowDefinition Height="46*"/>
+            <RowDefinition Height="43*"/>
+            <RowDefinition Height="44*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100*"/>
+            <ColumnDefinition Width="100*"/>
+            <ColumnDefinition Width="100*"/>
+            <ColumnDefinition Width="100*"/>
+        </Grid.ColumnDefinitions>
+        <Image x:ConnectionId='6' x:Name="image" Grid.ColumnSpan="4" HorizontalAlignment="Left" Margin="0,0,0,0" Grid.RowSpan="5" VerticalAlignment="Top" Source="/Imágenes/fondoCaptura2.png" Stretch="Fill" Visibility="Visible"/>
+        <RelativePanel x:ConnectionId='7' x:Name="ventana" Margin="26,48,34,13" Grid.ColumnSpan="2" Grid.Column="2" Grid.RowSpan="2"/>
+        <TextBlock x:ConnectionId='8' x:Name="textBlock2" HorizontalAlignment="Left" TextWrapping="Wrap" Text="POKEMON" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Grid.ColumnSpan="2" Grid.Column="1" Margin="58,0,0,0"/>
+        <Image x:ConnectionId='9' x:Name="pokeball" HorizontalAlignment="Left" Height="56.401380952381" Margin="10,22,0,0" Grid.Row="3" VerticalAlignment="Top" Width="56.8" Source="/Imágenes/pokeball.png" Visibility="Visible" RenderTransformOrigin="0.5,0.5" Grid.Column="1" Grid.RowSpan="2" UseLayoutRounding="False" d:LayoutRounding="Auto">
+            <Image.RenderTransform>
+                <CompositeTransform/>
+            </Image.RenderTransform>
+        </Image>
+        <Rectangle x:ConnectionId='10' x:Name="rectangle" Grid.Row="3" Stroke="Black" FocusVisualSecondaryBrush="#99FFFFFF" Fill="#FFFFDB00" Grid.ColumnSpan="2" Grid.RowSpan="2" Grid.Column="1" Visibility="Visible"/>
+        <Button x:ConnectionId='11' x:Name="atacar1" Content="ATACAR" Grid.Row="3" Foreground="Black" VerticalAlignment="Stretch" FocusVisualPrimaryBrush="#FF0006FF"                       Grid.Column="1" HorizontalAlignment="Stretch" BorderBrush="Black" Background="#7FFFF6A8"/>
+        <Button Content="Button" Height="0" Margin="54,85,0,0" Grid.Row="4" VerticalAlignment="Top" Grid.Column="1"/>
+        <Button x:ConnectionId='12' x:Name="Curar1" Grid.Column="2" Content="CAPTURAR" Grid.Row="3" Foreground="Black" FocusVisualPrimaryBrush="#FF0006FF"                      HorizontalAlignment="Stretch" Visibility="Visible" BorderBrush="Black" VerticalAlignment="Stretch" Background="#7FFFF6A8"/>
+        <Button x:ConnectionId='13' x:Name="button" Grid.Column="1" Content="HUIR" Grid.Row="4" Foreground="Black" FocusVisualPrimaryBrush="#FF0006FF" FocusVisualSecondaryBrush="#FF0006FF"                      Grid.ColumnSpan="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" BorderBrush="Black" Background="#7FFFF6A8"/>
+        <Rectangle x:ConnectionId='14' x:Name="rectangulo1" Grid.ColumnSpan="2" Margin="15,15,15,15" Grid.RowSpan="2" Grid.Row="3" Stroke="Black" Fill="White" Visibility="Collapsed"/>
+        <TextBlock x:ConnectionId='15' x:Name="textBlock" Grid.ColumnSpan="2" Grid.Column="1" Grid.Row="1" Text="¡ENHORABUENA! Has capturado un pokemon salvaje. ¿Quieres capturarle otra vez?" TextWrapping="Wrap" TextAlignment="Center" Margin="0,55,0,16" FontSize="16" FontFamily="Comic Sans MS" Visibility="Collapsed" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <Button x:ConnectionId='16' x:Name="button1" Grid.Column="2" Content="VOLVER" Grid.Row="1" Foreground="Black" FocusVisualPrimaryBrush="#FF0006FF" FocusVisualSecondaryBrush="#FF0006FF" HorizontalAlignment="Center" VerticalAlignment="Center" Visibility="Collapsed" FontSize="12" Background="#7FFFFFFF" Grid.ColumnSpan="2" Margin="0,118,0,43" Grid.RowSpan="3" BorderBrush="Black"                     />
+        <Button x:ConnectionId='17' x:Name="button1_Copy" Content="CLARO QUE SÍ" Grid.Row="1" Foreground="Black" FocusVisualPrimaryBrush="#FF0006FF" FocusVisualSecondaryBrush="#FF0006FF" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" Visibility="Collapsed" Margin="0,118,0,43" FontSize="12" Background="#7FFFFFFF" Grid.RowSpan="3" BorderBrush="Black"                      />
+    </Grid>
+</UserControl>
+

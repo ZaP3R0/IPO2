@@ -1,0 +1,8 @@
+<Pokemones>
+	<Pokemon nombre="Gardevoir" tipo="Psíquico, Hada" altura="1,6 metros" peso="48,4 kg" imag="src/Gardevoir.png" descripcion="Tiene la capacidad de predecir el futuro. Para proteger a su Entrenador, emplea hasta la última gota de su poder psíquico."/>
+	<Pokemon nombre="Dragonite" tipo="Dragón, Volador" altura="2,2 metros" peso="210,0 kg" imag="src/Dragonite.png" descripcion="Un Pokémon bondadoso y compasivo al que le resulta imposible dar la espalda a Pokémon o humanos que se encuentren a la deriva."/>
+	<Pokemon nombre="Jigglypuff" tipo="Normal, Hada" altura="0,5 metros" peso="5,5 kg" imag="src/Jigglypuff.png" descripcion="Su capacidad pulmonar es excepcional, incluso para un Pokémon. Es capaz de cantar nanas sin cesar hasta que su rival se duerma."/>
+	<Pokemon nombre="Zapdos" tipo="Eléctrico, Volador" altura="1,6 metros" peso="52,6 kg" imag="src/Zapdos.png" descripcion="Posee el poder de controlar la electricidad a su antojo. Según la creencia popular, anida oculto en oscuros nubarrones de tormenta."/>
+	<Pokemon nombre="Onix" tipo="Roca,Tierra" altura="8,8 metros" peso="210 kg" imag="src/Onix.png" descripcion="Al abrirse paso bajo tierra, va absorbiendo todo lo que encuentra. Eso hace que su cuerpo sea así de sólido."/>
+	<Pokemon nombre="Charizard" tipo="Fuego,Volador" altura="1,7 metros" peso="90,5 kg" imag="src/Charizard.png" descripcion="Escupe un fuego tan caliente que funde las rocas. Causa incendios forestales sin querer."/>
+</Pokemones>

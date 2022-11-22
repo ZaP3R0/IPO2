@@ -1,0 +1,56 @@
+﻿<UserControl
+    x:Class="pokemon.Batalla"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:pokemon"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300"
+    d:DesignWidth="400">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="45*"/>
+            <RowDefinition Height="150*"/>
+            <RowDefinition Height="40*"/>
+            <RowDefinition Height="40*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100*"/>
+            <ColumnDefinition Width="100*"/>
+            <ColumnDefinition Width="100*"/>
+            <ColumnDefinition Width="100*"/>
+        </Grid.ColumnDefinitions>
+        <Image Grid.ColumnSpan="4" HorizontalAlignment="Left" Margin="0,0,0,0" Grid.RowSpan="4" VerticalAlignment="Top" Source="/Imágenes/estadio.jpg" Stretch="Fill"/>
+        <RelativePanel x:ConnectionId='2' x:Name="ventanaIzq" Margin="30,30,30,28" Grid.Row="1" Grid.ColumnSpan="2"/>
+        <Rectangle Margin="30,30,30,28" Stroke="#FF6C68FF" Grid.Row="1" FocusVisualSecondaryBrush="#FF6C68FF" Grid.ColumnSpan="2"/>
+        <RelativePanel x:ConnectionId='3' x:Name="VentanaDer" Grid.Column="2" Margin="30,30,30,28" Grid.Row="1" Grid.ColumnSpan="2"/>
+        <Rectangle Grid.Column="2" Margin="30,30,30,28" Stroke="#FF6C68FF" Grid.Row="1" Grid.ColumnSpan="2"/>
+        <TextBlock x:ConnectionId='4' x:Name="jugador1" HorizontalAlignment="Center" TextWrapping="Wrap" Text="JUGADOR 1" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Grid.ColumnSpan="2"/>
+        <TextBlock x:ConnectionId='5' x:Name="jugador2" Grid.Column="2" HorizontalAlignment="Center" TextWrapping="Wrap" Text="JUGADOR 2" VerticalAlignment="Center" FontSize="15" FontWeight="Bold" Grid.ColumnSpan="2" Margin="0,0,0,0"/>
+        <Rectangle Grid.Row="2" Stroke="Black" Margin="15,15,15,15" FocusVisualSecondaryBrush="#99FFFFFF" Fill="White" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+        <TextBox HorizontalAlignment="Left" Margin="16,16,0,0" Grid.Row="2" TextWrapping="Wrap" Text="¿Qué deberíamos hacer ahora?" VerticalAlignment="Top" Foreground="Black" FontSize="11" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+        <Button x:ConnectionId='6' x:Name="atacar1" Content="ATACAR" Margin="16,1,0,0" Grid.Row="2" Foreground="Black" VerticalAlignment="Bottom" FocusVisualPrimaryBrush="#FF0006FF" HorizontalAlignment="Left"                      />
+        <Button Content="Button" Height="0" Margin="54,85,0,0" Grid.Row="3" VerticalAlignment="Top" Grid.Column="1"/>
+        <Button x:ConnectionId='7' x:Name="subirAtaque1" Content="SUBIR ATAQUE" Margin="16,0,0,0" Grid.Row="3" Foreground="#FF030000" FocusVisualPrimaryBrush="#FF0006FF" VerticalAlignment="Top"                           />
+        <Button x:ConnectionId='8' x:Name="Curar1" Grid.Column="1" Content="CURAR SALUD" Margin="1,1,0,0" Grid.Row="2" VerticalAlignment="Bottom" Foreground="Black" FocusVisualPrimaryBrush="#FF0006FF"                      HorizontalAlignment="Left"/>
+        <Button x:ConnectionId='9' x:Name="rendirse1" Grid.Column="1" Content="RENDIRSE" Margin="1,0,0,0" Grid.Row="3" VerticalAlignment="Top" Foreground="Black" FocusVisualPrimaryBrush="#FF0006FF" FocusVisualSecondaryBrush="#FF0006FF"                        />
+        <Rectangle Grid.Column="2" Margin="15,15,15,15" Grid.RowSpan="2" Grid.Row="2" Stroke="Black" Fill="White" Grid.ColumnSpan="2"/>
+        <TextBox Grid.Column="2" HorizontalAlignment="Left" Margin="16,16,0,0" Grid.Row="2" TextWrapping="Wrap" Text="¿Qué deberíamos hacer ahora?" VerticalAlignment="Top" Foreground="Black" FontSize="11" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+        <Button x:ConnectionId='10' x:Name="atacar2" Grid.Column="2" Content="ATACAR" Margin="16,1,0,0" Grid.Row="2" VerticalAlignment="Bottom" Foreground="Black"                      />
+        <Button x:ConnectionId='11' x:Name="curar2" Grid.Column="3" Content="CURAR SALUD" Margin="1,1,0,0" Grid.Row="2" VerticalAlignment="Bottom" FocusVisualPrimaryBrush="Black" Foreground="Black"                     />
+        <Button x:ConnectionId='12' x:Name="subirAtaque2" Grid.Column="2" Content="SUBIR ATAQUE" Margin="16,0,0,16" Grid.Row="3" VerticalAlignment="Top" Foreground="Black"                           />
+        <Button x:ConnectionId='13' x:Name="rendirse2" Grid.Column="3" Content="RENDIRSE" Margin="1,1,0,0" Grid.Row="3" Foreground="Black" VerticalAlignment="Top"                        />
+        <Rectangle x:ConnectionId='14' x:Name="rectangulo1" Grid.ColumnSpan="2" HorizontalAlignment="Stretch" Margin="15,15,15,15" Grid.RowSpan="2" Grid.Row="2" Stroke="Black" VerticalAlignment="Stretch" Fill="White" Visibility="Collapsed"/>
+        <TextBlock x:ConnectionId='15' x:Name="turnoJugador1" Grid.ColumnSpan="2" HorizontalAlignment="Center" Margin="15,15,15,15" Grid.RowSpan="2" Grid.Row="2" TextWrapping="Wrap" Text="Es el turno del jugador 2" VerticalAlignment="Center" FontWeight="Bold" Foreground="Black" SelectionHighlightColor="White" FocusVisualSecondaryBrush="#99BD7171" FontSize="20" Visibility="Collapsed"/>
+        <Rectangle x:ConnectionId='16' x:Name="rectangulo2" Grid.Column="2" Grid.ColumnSpan="2" HorizontalAlignment="Stretch" Margin="15,15,15,15" Grid.RowSpan="2" Grid.Row="2" Stroke="Black" VerticalAlignment="Stretch" Fill="White"/>
+        <TextBlock x:ConnectionId='17' x:Name="turnoJugador2" Grid.Column="2" Grid.ColumnSpan="2" HorizontalAlignment="Center" Margin="15,15,15,15" Grid.RowSpan="2" Grid.Row="2" TextWrapping="Wrap" Text="Es el turno del jugador 1" VerticalAlignment="Center" Foreground="Black" FontSize="20" FontWeight="Bold"/>
+        <Image x:ConnectionId='18' x:Name="atras" HorizontalAlignment="Left" Margin="15,15,70,0" VerticalAlignment="Top" Source="/Imágenes/flecha-hacia-atras.png" Stretch="Fill"                                        />
+
+
+
+
+    </Grid>
+</UserControl>
+

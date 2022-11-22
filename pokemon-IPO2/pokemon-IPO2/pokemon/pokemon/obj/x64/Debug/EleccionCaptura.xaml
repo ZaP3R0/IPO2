@@ -1,0 +1,42 @@
+﻿<UserControl
+    x:Class="pokemon.EleccionCaptura"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:pokemon"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300"
+    d:DesignWidth="400">
+
+    <Grid Background="#FFDC4D4D">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20*"/>
+            <ColumnDefinition Width="60
+                              *"/>
+            <ColumnDefinition Width="20*"/>
+            <ColumnDefinition Width="60*"/>
+            <ColumnDefinition Width="20*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="44*"/>
+            <RowDefinition Height="90*"/>
+            <RowDefinition Height="33*"/>
+            <RowDefinition Height="89*"/>
+
+            <RowDefinition Height="44*"/>
+        </Grid.RowDefinitions>
+        <Image Grid.RowSpan="5" Source="src/FondoP.jpg" Grid.ColumnSpan="5" Stretch="UniformToFill"/>
+        <TextBlock TextWrapping="Wrap" Text="ELIGE UN POKEMON" FontWeight="Bold" TextAlignment="Center" Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="3" Margin="70,0,72,68" FontSize="16"/>
+        <Image x:ConnectionId='2' x:Name="dragonite" Grid.Row="1" Source="src/Dragonite.png" Stretch="Uniform"                                             Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+        <Image x:ConnectionId='3' x:Name="jigglypuff" Grid.Row="3" Source="src/Jigglypuff_2.png" Stretch="Uniform"                                              Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+        <Image x:ConnectionId='4' x:Name="gardevoir" Grid.Column="3" Stretch="Uniform" Source="src/Gardevoir.png"                                             HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.Row="1"/>
+        <Image x:ConnectionId='5' x:Name="zapdos" Grid.Column="3" Grid.Row="3" Source="src/Zapdos.png" Stretch="Uniform"                                          HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+        <Image x:ConnectionId='6' x:Name="pokeball" Grid.Column="2" Grid.Row="2" Source="/Imágenes/pokeball.png" Stretch="Fill" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBlock x:ConnectionId='7' x:Name="pokemon_elegido" Grid.Column="1" Grid.Row="3" TextWrapping="Wrap" Text="POKEMON" FontWeight="Bold" TextAlignment="Center" Margin="120,75,120,40" Grid.RowSpan="2" Grid.ColumnSpan="3" Height="18"/>
+        <Button x:ConnectionId='8' x:Name="but_aceptar" Grid.Column="1" Content="ACEPTAR" Grid.Row="4" FontSize="14" FocusVisualPrimaryBrush="#FF080000" Foreground="White" Background="#FF0F6CC9"                       VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Grid.ColumnSpan="3" Margin="109,10,108,5" MaxHeight="45" MaxWidth="120" Visibility="Collapsed"/>
+        <Image x:ConnectionId='9' x:Name="imgCaptura" Grid.Column="1" Margin="65,5,64,5" Grid.ColumnSpan="3" Source="src/Capturar.png"/>
+
+    </Grid>
+</UserControl>
+

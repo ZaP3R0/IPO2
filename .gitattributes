@@ -1,0 +1,2 @@
+proyectoIpo2.psd filter=lfs diff=lfs merge=lfs -text
+proyecto.psd filter=lfs diff=lfs merge=lfs -text

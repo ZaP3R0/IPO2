@@ -1,0 +1,911 @@
+C:\Users\Usuario\source\repos\pokemon\pokemon\bin\x64\Debug\App.xbf
+C:\Users\Usuario\source\repos\pokemon\pokemon\bin\x64\Debug\gardevoir.xbf
+C:\Users\Usuario\source\repos\pokemon\pokemon\bin\x64\Debug\MainPage.xbf
+C:\Users\Usuario\source\repos\pokemon\pokemon\bin\x64\Debug\pokemon.xr.xml
+C:\Users\Usuario\source\repos\pokemon\pokemon\bin\x64\Debug\pokemon.exe
+C:\Users\Usuario\source\repos\pokemon\pokemon\bin\x64\Debug\pokemon.pdb
+C:\Users\Usuario\source\repos\pokemon\pokemon\bin\x64\Debug\resources.pri
+C:\Users\Usuario\source\repos\pokemon\pokemon\bin\x64\Debug\AppxManifest.xml
+C:\Users\Usuario\source\repos\pokemon\pokemon\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\Usuario\source\repos\pokemon\pokemon\bin\x64\Debug\Core\pokemon.exe
+C:\Users\Usuario\source\repos\pokemon\pokemon\bin\x64\Debug\pokemon.build.appxrecipe
+C:\Users\Usuario\source\repos\pokemon\pokemon\bin\x64\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\Usuario\source\repos\pokemon\pokemon\bin\x64\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\Usuario\source\repos\pokemon\pokemon\bin\x64\Debug\System.Runtime.dll
+C:\Users\Usuario\source\repos\pokemon\pokemon\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\pokemon.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\App.g.i.cs
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\App.g.cs
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\gardevoir.g.i.cs
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\gardevoir.g.cs
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\MainPage.g.cs
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\App.xaml
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\gardevoir.xaml
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\MainPage.xaml
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\App.xbf
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\gardevoir.xbf
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\MainPage.xbf
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\pokemon.csproj.CopyComplete
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\Microsoft.Toolkit.Uwp.Notifications.pri.xml
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\pokemon.exe
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\pokemon.pdb
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\priconfig.xml
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\resources.resfiles
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\pri.resfiles
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\qualifiers.txt
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+C:\Users\Usuario\source\repos\pokemon\pokemon\bin\x64\Debug\Combate.xbf
+C:\Users\Usuario\source\repos\pokemon\pokemon\bin\x64\Debug\Pokedex.xbf
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\Combate.g.i.cs
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\Combate.g.cs
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\Pokedex.g.i.cs
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\Pokedex.g.cs
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\Combate.xaml
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\Pokedex.xaml
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\Combate.xbf
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\Pokedex.xbf
+C:\Users\Usuario\source\repos\pokemon\pokemon\bin\x64\Debug\Inicio.xbf
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\Inicio.g.i.cs
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\Inicio.g.cs
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\Inicio.xaml
+C:\Users\Usuario\source\repos\pokemon\pokemon\obj\x64\Debug\Inicio.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\App.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\Combate.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\gardevoir.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\Inicio.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\MainPage.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\Pokedex.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\pokemon.xr.xml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\pokemon.exe
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\pokemon.pdb
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\resources.pri
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\AppxManifest.xml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\Core\pokemon.exe
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\pokemon.build.appxrecipe
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\System.Runtime.dll
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\pokemon.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\App.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\App.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Combate.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Combate.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\gardevoir.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\gardevoir.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Inicio.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Inicio.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\MainPage.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Pokedex.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Pokedex.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\App.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Combate.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\gardevoir.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Inicio.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\MainPage.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Pokedex.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\App.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Combate.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\gardevoir.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Inicio.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\MainPage.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Pokedex.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\pokemon.csproj.CopyComplete
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Microsoft.Toolkit.Uwp.Notifications.pri.xml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\pokemon.exe
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\pokemon.pdb
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\priconfig.xml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\resources.resfiles
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\pri.resfiles
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\qualifiers.txt
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\zapdos.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\zapdos.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\zapdos.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\zapdos.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\zapdos.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\Dragonite.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Dragonite.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Dragonite.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Dragonite.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Dragonite.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\jigglypuff.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\jigglypuff.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\jigglypuff.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\jigglypuff.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\jigglypuff.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\NumeroJugadores.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\NumeroJugadores.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\NumeroJugadores.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\NumeroJugadores.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\NumeroJugadores.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\ElegirPokemon.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\ElegirPokemon.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\ElegirPokemon.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\ElegirPokemon.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\ElegirPokemon.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\Eleccion.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Eleccion.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Eleccion.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Eleccion.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Eleccion.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\Batalla.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Batalla.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Batalla.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Batalla.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Batalla.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\ElegirP2Jugadores.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\ElegirP2Jugadores.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\ElegirP2Jugadores.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\ElegirP2Jugadores.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\ElegirP2Jugadores.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\Batalla1P.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Batalla1P.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Batalla1P.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Batalla1P.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Batalla1P.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\Vcitoria.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Vcitoria.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Vcitoria.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Vcitoria.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Vcitoria.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\App.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\Batalla.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\Batalla1P.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\Combate.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\Dragonite.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\Eleccion.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\ElegirP2Jugadores.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\ElegirPokemon.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\gardevoir.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\Inicio.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\jigglypuff.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\MainPage.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\NumeroJugadores.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\Pokedex.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\Vcitoria.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\zapdos.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\pokemon.xr.xml
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\pokemon.exe
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\pokemon.pdb
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\resources.pri
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\AppxManifest.xml
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\Core\pokemon.exe
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\pokemon.build.appxrecipe
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\System.Runtime.dll
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\pokemon.csproj.AssemblyReference.cache
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\App.g.i.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\App.g.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Batalla.g.i.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Batalla.g.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Batalla1P.g.i.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Batalla1P.g.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Combate.g.i.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Combate.g.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Dragonite.g.i.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Dragonite.g.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Eleccion.g.i.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Eleccion.g.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\ElegirP2Jugadores.g.i.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\ElegirP2Jugadores.g.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\ElegirPokemon.g.i.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\ElegirPokemon.g.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\gardevoir.g.i.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\gardevoir.g.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Inicio.g.i.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Inicio.g.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\jigglypuff.g.i.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\jigglypuff.g.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\MainPage.g.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\NumeroJugadores.g.i.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\NumeroJugadores.g.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Pokedex.g.i.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Pokedex.g.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Vcitoria.g.i.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Vcitoria.g.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\zapdos.g.i.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\zapdos.g.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\App.xaml
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Batalla.xaml
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Batalla1P.xaml
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Combate.xaml
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Dragonite.xaml
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Eleccion.xaml
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\ElegirP2Jugadores.xaml
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\ElegirPokemon.xaml
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\gardevoir.xaml
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Inicio.xaml
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\jigglypuff.xaml
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\MainPage.xaml
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\NumeroJugadores.xaml
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Pokedex.xaml
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Vcitoria.xaml
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\zapdos.xaml
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\App.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Batalla.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Batalla1P.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Combate.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Dragonite.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Eleccion.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\ElegirP2Jugadores.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\ElegirPokemon.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\gardevoir.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Inicio.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\jigglypuff.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\MainPage.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\NumeroJugadores.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Pokedex.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Vcitoria.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\zapdos.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\pokemon.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\pokemon.csproj.CopyComplete
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Microsoft.Toolkit.Uwp.Notifications.pri.xml
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\pokemon.exe
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\pokemon.pdb
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\priconfig.xml
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\resources.resfiles
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\pri.resfiles
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\qualifiers.txt
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\GradevoirData.g.i.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\GradevoirData.g.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Pokedex2.g.i.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Pokedex2.g.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\GradevoirData.xaml
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Pokedex2.xaml
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\GradevoirData.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Pokedex2.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\GradevoirData.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\Pokedex2.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\bin\x64\Debug\App.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\bin\x64\Debug\Batalla.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\bin\x64\Debug\Batalla1P.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\bin\x64\Debug\Combate.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\bin\x64\Debug\Dragonite.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\bin\x64\Debug\Eleccion.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\bin\x64\Debug\ElegirP2Jugadores.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\bin\x64\Debug\ElegirPokemon.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\bin\x64\Debug\gardevoir.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\bin\x64\Debug\GradevoirData.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\bin\x64\Debug\Inicio.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\bin\x64\Debug\jigglypuff.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\bin\x64\Debug\MainPage.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\bin\x64\Debug\NumeroJugadores.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\bin\x64\Debug\Pokedex.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\bin\x64\Debug\Pokedex2.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\bin\x64\Debug\Vcitoria.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\bin\x64\Debug\zapdos.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\bin\x64\Debug\pokemon.xr.xml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\bin\x64\Debug\pokemon.exe
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\bin\x64\Debug\pokemon.pdb
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\bin\x64\Debug\resources.pri
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\bin\x64\Debug\AppxManifest.xml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\bin\x64\Debug\Core\pokemon.exe
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\bin\x64\Debug\pokemon.build.appxrecipe
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\bin\x64\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\bin\x64\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\bin\x64\Debug\System.Runtime.dll
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\pokemon.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\App.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\App.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Batalla.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Batalla.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Batalla1P.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Batalla1P.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Combate.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Combate.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Dragonite.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Dragonite.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Eleccion.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Eleccion.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\ElegirP2Jugadores.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\ElegirP2Jugadores.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\ElegirPokemon.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\ElegirPokemon.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\gardevoir.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\gardevoir.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\GradevoirData.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\GradevoirData.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Inicio.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Inicio.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\jigglypuff.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\jigglypuff.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\MainPage.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\NumeroJugadores.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\NumeroJugadores.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Pokedex.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Pokedex.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Pokedex2.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Pokedex2.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Vcitoria.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Vcitoria.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\zapdos.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\zapdos.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\App.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Batalla.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Batalla1P.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Combate.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Dragonite.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Eleccion.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\ElegirP2Jugadores.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\ElegirPokemon.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\gardevoir.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\GradevoirData.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Inicio.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\jigglypuff.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\MainPage.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\NumeroJugadores.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Pokedex.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Pokedex2.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Vcitoria.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\zapdos.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\App.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Batalla.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Batalla1P.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Combate.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Dragonite.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Eleccion.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\ElegirP2Jugadores.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\ElegirPokemon.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\gardevoir.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\GradevoirData.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Inicio.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\jigglypuff.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\MainPage.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\NumeroJugadores.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Pokedex.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Pokedex2.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Vcitoria.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\zapdos.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\pokemon.csproj.CopyComplete
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\Microsoft.Toolkit.Uwp.Notifications.pri.xml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\pokemon.exe
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\pokemon.pdb
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\priconfig.xml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\resources.resfiles
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\pri.resfiles
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\qualifiers.txt
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokemon\pokemon\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\Captura.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\CapturarPokemon.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\EleccionCaptura.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\GradevoirData.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\bin\x64\Debug\Pokedex2.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Captura.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Captura.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\CapturarPokemon.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\CapturarPokemon.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\EleccionCaptura.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\EleccionCaptura.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\GradevoirData.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\GradevoirData.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Pokedex2.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Pokedex2.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Captura.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\CapturarPokemon.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\EleccionCaptura.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\GradevoirData.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Pokedex2.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Captura.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\CapturarPokemon.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\EleccionCaptura.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\GradevoirData.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\pokemon\pokemon\obj\x64\Debug\Pokedex2.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\Captura.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\CapturarPokemon.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\bin\x64\Debug\EleccionCaptura.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Captura.g.i.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Captura.g.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\CapturarPokemon.g.i.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\CapturarPokemon.g.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\EleccionCaptura.g.i.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\EleccionCaptura.g.cs
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Captura.xaml
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\CapturarPokemon.xaml
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\EleccionCaptura.xaml
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\Captura.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\CapturarPokemon.xbf
+C:\Users\aleja\Desktop\pokemon\pokemon\obj\x64\Debug\EleccionCaptura.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\App.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\Batalla.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\Batalla1P.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\Captura.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\CapturarPokemon.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\Combate.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\Dragonite.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\Eleccion.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\EleccionCaptura.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\ElegirP2Jugadores.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\ElegirPokemon.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\gardevoir.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\GradevoirData.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\Inicio.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\jigglypuff.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\MainPage.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\NumeroJugadores.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\Pokedex.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\Pokedex2.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\Vcitoria.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\zapdos.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\pokemon.xr.xml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\pokemon.exe
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\pokemon.pdb
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\resources.pri
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\AppxManifest.xml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\Core\pokemon.exe
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\pokemon.build.appxrecipe
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\System.Runtime.dll
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\pokemon.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\App.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\App.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Batalla.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Batalla.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Batalla1P.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Batalla1P.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Captura.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Captura.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\CapturarPokemon.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\CapturarPokemon.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Combate.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Combate.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Dragonite.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Dragonite.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Eleccion.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Eleccion.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\EleccionCaptura.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\EleccionCaptura.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\ElegirP2Jugadores.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\ElegirP2Jugadores.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\ElegirPokemon.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\ElegirPokemon.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\gardevoir.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\gardevoir.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\GradevoirData.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\GradevoirData.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Inicio.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Inicio.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\jigglypuff.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\jigglypuff.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\MainPage.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\NumeroJugadores.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\NumeroJugadores.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Pokedex.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Pokedex.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Pokedex2.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Pokedex2.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Vcitoria.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Vcitoria.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\zapdos.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\zapdos.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\App.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Batalla.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Batalla1P.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Captura.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\CapturarPokemon.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Combate.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Dragonite.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Eleccion.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\EleccionCaptura.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\ElegirP2Jugadores.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\ElegirPokemon.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\gardevoir.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\GradevoirData.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Inicio.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\jigglypuff.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\MainPage.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\NumeroJugadores.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Pokedex.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Pokedex2.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Vcitoria.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\zapdos.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\App.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Batalla.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Batalla1P.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Captura.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\CapturarPokemon.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Combate.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Dragonite.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Eleccion.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\EleccionCaptura.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\ElegirP2Jugadores.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\ElegirPokemon.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\gardevoir.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\GradevoirData.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Inicio.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\jigglypuff.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\MainPage.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\NumeroJugadores.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Pokedex.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Pokedex2.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Vcitoria.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\zapdos.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\pokemon.csproj.CopyComplete
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\Microsoft.Toolkit.Uwp.Notifications.pri.xml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\pokemon.exe
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\pokemon.pdb
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\priconfig.xml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\resources.resfiles
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\pri.resfiles
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\qualifiers.txt
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon\pokemon\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\App.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\Batalla.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\Batalla1P.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\Captura.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\CapturarPokemon.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\Combate.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\Dragonite.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\Eleccion.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\EleccionCaptura.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\ElegirP2Jugadores.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\ElegirPokemon.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\gardevoir.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\GradevoirData.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\Inicio.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\jigglypuff.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\MainPage.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\NumeroJugadores.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\Pokedex.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\Pokedex2.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\Vcitoria.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\zapdos.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\pokemon.xr.xml
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\pokemon.exe
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\pokemon.pdb
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\resources.pri
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\AppxManifest.xml
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\Core\pokemon.exe
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\pokemon.build.appxrecipe
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\System.Runtime.dll
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\pokemon.csproj.AssemblyReference.cache
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\App.g.i.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\App.g.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Batalla.g.i.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Batalla.g.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Batalla1P.g.i.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Batalla1P.g.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Captura.g.i.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Captura.g.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\CapturarPokemon.g.i.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\CapturarPokemon.g.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Combate.g.i.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Combate.g.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Dragonite.g.i.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Dragonite.g.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Eleccion.g.i.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Eleccion.g.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\EleccionCaptura.g.i.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\EleccionCaptura.g.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\ElegirP2Jugadores.g.i.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\ElegirP2Jugadores.g.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\ElegirPokemon.g.i.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\ElegirPokemon.g.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\gardevoir.g.i.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\gardevoir.g.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\GradevoirData.g.i.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\GradevoirData.g.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Inicio.g.i.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Inicio.g.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\jigglypuff.g.i.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\jigglypuff.g.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\MainPage.g.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\NumeroJugadores.g.i.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\NumeroJugadores.g.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Pokedex.g.i.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Pokedex.g.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Pokedex2.g.i.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Pokedex2.g.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Vcitoria.g.i.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Vcitoria.g.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\zapdos.g.i.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\zapdos.g.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\App.xaml
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Batalla.xaml
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Batalla1P.xaml
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Captura.xaml
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\CapturarPokemon.xaml
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Combate.xaml
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Dragonite.xaml
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Eleccion.xaml
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\EleccionCaptura.xaml
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\ElegirP2Jugadores.xaml
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\ElegirPokemon.xaml
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\gardevoir.xaml
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\GradevoirData.xaml
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Inicio.xaml
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\jigglypuff.xaml
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\MainPage.xaml
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\NumeroJugadores.xaml
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Pokedex.xaml
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Pokedex2.xaml
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Vcitoria.xaml
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\zapdos.xaml
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\App.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Batalla.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Batalla1P.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Captura.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\CapturarPokemon.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Combate.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Dragonite.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Eleccion.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\EleccionCaptura.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\ElegirP2Jugadores.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\ElegirPokemon.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\gardevoir.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\GradevoirData.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Inicio.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\jigglypuff.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\MainPage.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\NumeroJugadores.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Pokedex.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Pokedex2.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Vcitoria.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\zapdos.xbf
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\pokemon.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\pokemon.csproj.CopyComplete
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Microsoft.Toolkit.Uwp.Notifications.pri.xml
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\pokemon.exe
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\pokemon.pdb
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\priconfig.xml
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\resources.resfiles
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\pri.resfiles
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\qualifiers.txt
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\migue\OneDrive - Universidad de Castilla-La Mancha\PC\Escritorio\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\App.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\Batalla.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\Batalla1P.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\Captura.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\CapturarPokemon.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\Combate.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\Dragonite.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\Eleccion.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\EleccionCaptura.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\ElegirP2Jugadores.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\ElegirPokemon.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\gardevoir.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\GradevoirData.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\Inicio.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\jigglypuff.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\MainPage.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\NumeroJugadores.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\Pokedex.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\Pokedex2.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\Vcitoria.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\zapdos.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\pokemon.xr.xml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\pokemon.exe
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\pokemon.pdb
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\resources.pri
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\AppxManifest.xml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\Core\pokemon.exe
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\pokemon.build.appxrecipe
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\System.Runtime.dll
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\pokemon.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\App.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\App.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Batalla.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Batalla.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Batalla1P.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Batalla1P.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Captura.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Captura.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\CapturarPokemon.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\CapturarPokemon.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Combate.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Combate.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Dragonite.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Dragonite.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Eleccion.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Eleccion.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\EleccionCaptura.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\EleccionCaptura.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\ElegirP2Jugadores.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\ElegirP2Jugadores.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\ElegirPokemon.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\ElegirPokemon.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\gardevoir.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\gardevoir.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\GradevoirData.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\GradevoirData.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Inicio.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Inicio.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\jigglypuff.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\jigglypuff.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\MainPage.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\NumeroJugadores.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\NumeroJugadores.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Pokedex.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Pokedex.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Pokedex2.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Pokedex2.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Vcitoria.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Vcitoria.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\zapdos.g.i.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\zapdos.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\App.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Batalla.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Batalla1P.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Captura.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\CapturarPokemon.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Combate.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Dragonite.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Eleccion.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\EleccionCaptura.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\ElegirP2Jugadores.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\ElegirPokemon.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\gardevoir.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\GradevoirData.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Inicio.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\jigglypuff.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\MainPage.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\NumeroJugadores.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Pokedex.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Pokedex2.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Vcitoria.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\zapdos.xaml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\App.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Batalla.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Batalla1P.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Captura.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\CapturarPokemon.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Combate.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Dragonite.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Eleccion.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\EleccionCaptura.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\ElegirP2Jugadores.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\ElegirPokemon.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\gardevoir.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\GradevoirData.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Inicio.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\jigglypuff.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\MainPage.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\NumeroJugadores.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Pokedex.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Pokedex2.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Vcitoria.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\zapdos.xbf
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\pokemon.csproj.CopyComplete
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\Microsoft.Toolkit.Uwp.Notifications.pri.xml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\pokemon.exe
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\pokemon.pdb
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\priconfig.xml
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\resources.resfiles
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\pri.resfiles
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\qualifiers.txt
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Usuario\Desktop\trabajos y practicas\pokemon-IPO2\pokemon\pokemon\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json

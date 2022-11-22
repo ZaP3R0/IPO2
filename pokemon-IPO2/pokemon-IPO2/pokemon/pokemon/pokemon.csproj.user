@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokedex.png</Source>
+    <SmallTileSource>C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokedex.png</SmallTileSource>
+    <MediumTileSource>C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokedex.png</MediumTileSource>
+    <WideTileSource>C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokedex.png</WideTileSource>
+    <LargeTileSource>C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokedex.png</LargeTileSource>
+    <AppIconSource>C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokedex.png</AppIconSource>
+    <SplashScreenSource>C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokedex.png</SplashScreenSource>
+    <PackageLogoSource>C:\Users\Usuario\Desktop\trabajos y practicas\3cruso\ipo2\pokedex.png</PackageLogoSource>
+  </PropertyGroup>
+</Project>

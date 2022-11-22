@@ -1,0 +1,68 @@
+﻿<UserControl
+    x:Class="pokemon.ElegirPokemon"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:pokemon"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300"
+    d:DesignWidth="400">
+
+    <Grid Background="#FFDC4D4D">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="34*"/>
+            <RowDefinition Height="22*"/>
+            <RowDefinition Height="16*"/>
+            <RowDefinition Height="15*"/>
+            <RowDefinition Height="52.5*"/>
+            <RowDefinition Height="15*"/>
+            <RowDefinition Height="52.5*"/>
+            <RowDefinition Height="15*"/>
+            <RowDefinition Height="18*"/>
+            <RowDefinition Height="14*"/>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="18*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="30*"/>
+            <ColumnDefinition Width="14*"/>
+            <ColumnDefinition Width="52.5*"/>
+            <ColumnDefinition Width="15*"/>
+            <ColumnDefinition Width="52.5*"/>
+            <ColumnDefinition Width="14*"/>
+            <ColumnDefinition Width="42*"/>
+            <ColumnDefinition Width="15*"/>
+            <ColumnDefinition Width="52*"/>
+            <ColumnDefinition Width="15*"/>
+            <ColumnDefinition Width="52.5*"/>
+            <ColumnDefinition Width="15*"/>
+            <ColumnDefinition Width="30*"/>
+        </Grid.ColumnDefinitions>
+        <Image Grid.RowSpan="12" Source="/Imágenes/estadio.jpg" Grid.ColumnSpan="13" Stretch="Fill"/>
+        <TextBlock Grid.Column="2" HorizontalAlignment="Center" Grid.Row="1" TextWrapping="Wrap" Text="JUGADOR 1" VerticalAlignment="Center" FontWeight="Bold" Grid.ColumnSpan="3" Margin="0,0,0,0"/>
+        <TextBlock Grid.Column="8" HorizontalAlignment="Center" Grid.Row="1" TextWrapping="Wrap" Text="JUGADOR 2" VerticalAlignment="Center" FontWeight="Bold" Margin="0,0,0,0" Grid.ColumnSpan="3"/>
+
+
+
+        <Image x:Name="dragonite1" Grid.Column="2" Margin="0,0,0,0" Grid.Row="4" VerticalAlignment="Stretch" Source="src/Dragonite.png" Stretch="Uniform" PointerReleased="dragonite1_PointerReleased"/>
+        <Image x:Name="jigglypuff1" Grid.Column="2" HorizontalAlignment="Stretch" Grid.Row="6" VerticalAlignment="Stretch" Source="src/Jigglypuff.png" Stretch="Uniform" PointerReleased="jigglypuff1_PointerReleased"/>
+        <Image x:Name="gardevoir1" Grid.Column="4" HorizontalAlignment="Stretch" Grid.Row="4" VerticalAlignment="Stretch" Stretch="Uniform" Source="src/Gardevoir.png" PointerReleased="gardevoir1_PointerReleased"/>
+        <Image x:Name="zapdos1" Grid.Column="4" HorizontalAlignment="Stretch" Grid.Row="6" VerticalAlignment="Stretch" Source="src/Zapdos.png" Stretch="Uniform" PointerReleased="zapdos1_PointerReleased"/>
+        <Image x:Name="dragonite2" Grid.Column="8" HorizontalAlignment="Stretch" Margin="0,0,0,0" Grid.Row="4" VerticalAlignment="Stretch" Source="src/Dragonite.png" Stretch="Uniform" PointerReleased="dragonite2_PointerReleased"/>
+        <Image x:Name="gardevoir2" Grid.Column="10" HorizontalAlignment="Stretch" Margin="0,0,0,0" Grid.Row="4" VerticalAlignment="Stretch" Source="src/Gardevoir.png" Stretch="Uniform" PointerReleased="gardevoir2_PointerReleased"/>
+        <Image x:Name="jigglypuff2" Grid.Column="8" HorizontalAlignment="Stretch" Margin="0,0,0,0" Grid.Row="6" VerticalAlignment="Stretch" Source="src/Jigglypuff_2.png" Stretch="Uniform" PointerReleased="jigglypuff2_PointerReleased"/>
+        <Image x:Name="zapdos2" Grid.Column="10" HorizontalAlignment="Stretch" Margin="0,0,0,0" Grid.Row="6" VerticalAlignment="Stretch" Source="src/Zapdos.png" Stretch="Uniform" PointerReleased="zapdos2_PointerReleased"/>
+        <Image Grid.Column="6" HorizontalAlignment="Center" Grid.Row="4" VerticalAlignment="Top" Source="/Imágenes/competencia.png" Stretch="Fill" Margin="0,39,0,39" Grid.RowSpan="3"/>
+        <TextBlock x:Name="pokemon1" Grid.Column="2" Grid.ColumnSpan="3" HorizontalAlignment="Center" Margin="0,0,0,0" Grid.Row="8" TextWrapping="Wrap" Text="Selecciona un pokemon" VerticalAlignment="Center" FontWeight="Bold"/>
+        <Button x:Name="aceptar" Grid.Column="2" Content="ACEPTAR" Grid.ColumnSpan="3" Margin="0,0,0,0" Grid.Row="10" FontSize="14" FocusVisualPrimaryBrush="#FF0F6CC9" HorizontalAlignment="Center" Foreground="White" Background="#FF0F6CC9" Click="aceptar_Click" Visibility="Collapsed"/>
+        <Image x:Name="pokeball1" Grid.Column="2" Grid.ColumnSpan="3" HorizontalAlignment="Stretch" Margin="0,0,0,0" Grid.RowSpan="3" Grid.Row="4" VerticalAlignment="Stretch" Source="/Imágenes/pokebola.png" Stretch="Fill" Visibility="Collapsed" PointerReleased="pokeball1_PointerReleased"/>
+        <Button x:Name="Cancelar" Grid.Column="2" Content="CANCELAR" Grid.ColumnSpan="3" Margin="0,0,0,0" Grid.Row="10" FontSize="14" FocusVisualPrimaryBrush="#FF080000" HorizontalAlignment="Center" Foreground="Black" Background="White" Click="Cancelar_Click" Visibility="Collapsed"/>
+        <TextBlock x:Name="pokemon2" Grid.Column="8" HorizontalAlignment="Center" Grid.Row="8" TextWrapping="Wrap" Text="Selecciona un pokemon" VerticalAlignment="Center" FontWeight="Bold" Grid.ColumnSpan="3" Margin="0,0,0,0"/>
+        <Button x:Name="aceptar2" Grid.Column="8" Content="ACEPTAR" Grid.ColumnSpan="3" Margin="0,0,0,0" Grid.Row="10" Foreground="#FF090000" Background="White" HorizontalAlignment="Center" Click="aceptar2_Click" Visibility="Collapsed"/>
+        <Button x:Name="cancelar2" Grid.Column="8" Content="CANCELAR" Grid.ColumnSpan="3" Margin="0,0,0,0" Grid.Row="10" Foreground="#FF090000" Background="White" HorizontalAlignment="Center" Visibility="Collapsed" Click="cancelar2_Click"/>
+        <Image x:Name="pokeball2" Grid.Column="8" Grid.ColumnSpan="3" HorizontalAlignment="Left" Margin="0,0,0,0" Grid.RowSpan="3" Grid.Row="4" VerticalAlignment="Top" Source="/Imágenes/pokebola.png" Stretch="Fill" Visibility="Collapsed" PointerReleased="pokeball2_PointerReleased"/>
+        <Image x:Name="atras" HorizontalAlignment="Right" Margin="15,15,0,0" VerticalAlignment="Bottom" Source="/Imágenes/flecha-hacia-atras.png" Stretch="Fill" NineGrid="10,0,0,0" RenderTransformOrigin="3.14,2.128" PointerReleased="atras_PointerReleased"/>
+
+    </Grid>
+</UserControl>
